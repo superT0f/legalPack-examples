@@ -38,6 +38,30 @@ Livrable : rapport + correctifs prêts à appliquer (.htaccess, robots.txt…).
 → Diagnostic gratuit par mail : écrivez l'URL de votre site à
 conformite@prigent.tech
 
+## La gamme MonKit — kits métiers (paiement unique)
+
+Même principe que le LegalPack — documents pré-remplis à vos informations
+(SIRENE), prêts en 10 minutes — décliné par sujet :
+
+| Kit | Prix | Contenu |
+|---|---|---|
+| **MonKit Registre** | 12 € | Registre des traitements RGPD (art. 30) pré-rempli selon votre activité (11 secteurs), fiches de traitement, guide, export tableur |
+| **MonKit IA** | 29 € | Conformité AI Act pour déployeurs : mention de transparence (art. 50), inventaire des usages, attestations salariés, politique interne, registre IA |
+| **MonKit Devis** | 9 € (complet 19 €) | Devis et factures aux mentions 2026 : devis pré-rempli, facture, bon de commande — et en option CGV artisan + bloc RGE |
+| **MonKit Accessibilité** | 29 € | Documents RGAA/EAA : déclaration d'accessibilité (**hébergée chez nous**, en ligne dès l'achat), schéma pluriannuel, mentions d'accueil, plan d'action — pré-diagnostic gratuit de votre site à l'appui |
+| **MonKit Contrat** | 24 € | Contrat de prestation (4 variantes métier), NDA, CGV, avenant, modèle de facture, guide anti-impayés — modèles à faire valider, pas une consultation juridique |
+
+→ https://conformite.prigent.tech — wizard guidé pour chaque kit, aperçu
+avant paiement.
+
+## Veilles mensuelles thématiques (optionnelles)
+
+Un email par mois quand la réglementation de votre kit évolue, résiliable en
+un clic :
+
+- **Veille AI Act** — 4,90 €/mois (complète MonKit IA)
+- **Veille réglementaire artisan** — 2,90 €/mois (complète MonKit Devis)
+
 ## Abonnements de veille (optionnels)
 
 Votre site est re-scanné automatiquement ; vous êtes alerté par mail dès

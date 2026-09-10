@@ -73,6 +73,11 @@ standard ou des outils déjà présents.
 - **Scan gratuit** : testez la conformité de votre site sur
   [conformite.prigent.tech](https://conformite.prigent.tech) — 30 secondes,
   sans email.
+- **Autres kits métiers** (IA/AI Act, registre RGPD, devis artisan,
+  accessibilité RGAA, contrat freelance) : voir
+  [PROMOTION.md](PROMOTION.md) — même moteur, même approche paiement unique.
+- **Comparatif indépendant** des solutions de conformité :
+  [comparateur-kits-rgpd.prigent.tech](https://comparateur-kits-rgpd.prigent.tech).
 
 ## Licence
 
